@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{AA06AE01-45BF-403D-9932-F54A7BB36AFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{AA06AE01-45BF-403D-9932-F54A7BB36AFF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlow2", "..\ControlFlow2\ControlFlow2\ControlFlow2.csproj", "{2A993DFF-3591-4285-B114-5B5FCB59BC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveNegative", "PositiveNegative\PositiveNegative.csproj", "{7E28F539-1163-461B-B1E9-21EE36D28463}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2A993DFF-3591-4285-B114-5B5FCB59BC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A993DFF-3591-4285-B114-5B5FCB59BC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A993DFF-3591-4285-B114-5B5FCB59BC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E28F539-1163-461B-B1E9-21EE36D28463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E28F539-1163-461B-B1E9-21EE36D28463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E28F539-1163-461B-B1E9-21EE36D28463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E28F539-1163-461B-B1E9-21EE36D28463}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
